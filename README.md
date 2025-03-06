@@ -78,7 +78,7 @@
 
 
 ## 🎒 Образование
-[<img src="https://raw.githubusercontent.com/Regina3004/Regina3004/refs/heads/main/SERTMIDLENG.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
+[<img src="https://raw.githubusercontent.com/Regina3004/Regina3004/refs/heads/main/SERTMIDLENG.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Regina3004/Regina3004/refs/heads/main/sertjuneng.png)
 [<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
 
 <br>
