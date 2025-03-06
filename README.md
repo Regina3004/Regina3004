@@ -79,7 +79,7 @@
 
 ## 🎒 Образование
 [<img src="https://raw.githubusercontent.com/Regina3004/Regina3004/refs/heads/main/sertjuneng.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Regina3004/Regina3004/refs/heads/main/sertjuneng.png)
-[<img src="https://raw.githubusercontent.com/Regina3004/Regina3004/refs/heads/main/sertjunrus.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Regina3004/Regina3004/refs/heads/main/sertjunrus.png)
+[<img src="https://raw.githubusercontent.com/Regina3004/Regina3004/refs/heads/main/SERTMIDLENG.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Regina3004/Regina3004/refs/heads/main/SERTMIDLENG.png)
 
 
 <br>
